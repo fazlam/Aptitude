@@ -1,4 +1,4 @@
-package com.xworkz.Apitude.question;
+package com.xworkz.Aptitude.question;
 
 public class Sample {
 	public static void main(String[]args) {
